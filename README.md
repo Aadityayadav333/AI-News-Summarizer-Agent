@@ -11,7 +11,7 @@
 
 https://github.com/user-attachments/assets/fecfd6be-6680-4e84-8bca-c977807934d5
 
-> *Note: Video will appear here after first push to GitHub*
+
 
 ## 🎯 What It Does
 
