@@ -9,7 +9,7 @@
 
 ## 📺 Demo
 
-https://github.com/Aadityayadav333/AI-News-Summarizer-Agent/assets/PLACEHOLDER/demo.mp4
+
 
 > *Note: Video will appear here after first push to GitHub*
 
