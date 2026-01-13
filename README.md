@@ -7,6 +7,12 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Latest-red)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+## 📺 Demo
+
+https://github.com/Aadityayadav333/AI-News-Summarizer-Agent/assets/PLACEHOLDER/demo.mp4
+
+> *Note: Video will appear here after first push to GitHub*
+
 ## 🎯 What It Does
 
 NewsNinja scrapes the latest news and Reddit discussions on any topic, summarizes them using AI, and converts the summary into an audio broadcast - perfect for staying informed while multitasking!
@@ -29,8 +35,8 @@ NewsNinja scrapes the latest news and Reddit discussions on any topic, summarize
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/NewsNinja.git
-cd NewsNinja
+git clone https://github.com/Aadityayadav333/AI-News-Summarizer-Agent.git
+cd AI-News-Summarizer-Agent
 ```
 
 2. **Install dependencies**
@@ -66,10 +72,6 @@ streamlit run frontend.py
 ```
 
 5. **Open your browser** → `http://localhost:8501`
-
-## 📺 Demo
-
-Check out the `/Screen Recording` folder for a video demo!
 
 ## 🛠️ Tech Stack
 
