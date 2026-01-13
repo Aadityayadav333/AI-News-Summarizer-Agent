@@ -122,28 +122,5 @@ NewsNinja/
    - Sign up: https://brightdata.com/
    - Free trial available
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- 🐛 Report bugs
-- 💡 Suggest features
-- 🔧 Submit pull requests
-
-## 📝 License
-
-MIT License - feel free to use this project however you'd like!
-
-## 🙏 Acknowledgments
-
-- Groq for free AI API
-- BrightData for web scraping
-- Google for TTS
-- Anthropic for MCP framework
-
-## 📧 Contact
-
-Questions? Feel free to open an issue!
-
----
 
 ⭐ **Star this repo if you found it helpful!**
