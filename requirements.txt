@@ -1,0 +1,17 @@
+streamlit
+fastapi
+uvicorn
+langchain-anthropic
+python-dotenv
+beautifulsoup4
+lxml
+aiolimiter
+langgraph
+mcp
+langchain-mcp-adapters
+gtts
+groq
+anthropic
+requests
+tenacity
+pydantic
